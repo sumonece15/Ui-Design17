@@ -3,7 +3,7 @@
     <style name="Theme.UiDesign17" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">#55a029</item>
-        <item name="colorPrimaryVariant">#55a029</item>
+        <item name="colorPrimaryVariant">#5BC51D</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>
